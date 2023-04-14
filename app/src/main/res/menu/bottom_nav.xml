@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Adults"
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_menu_24"/>
+
+    <item android:title="Kids" android:id="@+id/home2"  android:icon="@drawable/baseline_menu_24"/>
+    <item android:title="Mixed" android:id="@+id/home3"  android:icon="@drawable/baseline_menu_24"/>
+</menu>
